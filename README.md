@@ -10,7 +10,7 @@ This repository contains the code from:
 >**Keywords:** *fake reviews, detection, e-commerce, eWOM, marketing*
 
 # Dataset
-The Fake Reviews dataset that contains 20k computer-generated fake reviews and 20k human-created product reviews can be downloaded here: 
+The Fake Reviews dataset that contains 20k computer-generated fake reviews and 20k human-created product reviews can be downloaded here: https://osf.io/tyue9/
 
 # docs/proposal
 Contains basic exploration of the chosen language models: ULMFiT and GPT-2.
